@@ -1,2 +1,2 @@
-# Cascading-Style-Sheet
+# Cascading-Style-Sheets
 css 공부
